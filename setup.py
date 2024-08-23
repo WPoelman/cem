@@ -22,7 +22,6 @@ setuptools.setup(
         'Operating System :: OS Independent',
         'Intended Audience :: Science/Research',
     ],
-    python_requires='>=3.7, <3.9',
     install_requires=[
         "importlib-metadata>=4.8.2",
         "importlib-resources>=5.4.0",
